@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 108,
-    "timeWeek": 139,
+    "timeDay": 151,
+    "timeWeek": 142,
     "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {}
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/status.morondan.ga",
     "slug": "morondan-ga",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.43%",
+    "uptimeDay": "91.24%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 918,
-    "timeDay": 780,
-    "timeWeek": 1000,
+    "timeDay": 0,
+    "timeWeek": 1035,
     "timeMonth": 918,
     "timeYear": 918,
     "dailyMinutesDown": {
-      "2022-03-04": 0,
+      "2022-03-05": 52,
+      "2022-03-04": 75,
       "2022-02-15": 17
     }
   }
