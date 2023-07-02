@@ -11,13 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 162,
-    "timeDay": 209,
-    "timeWeek": 142,
-    "timeMonth": 139,
+    "timeDay": 93,
+    "timeWeek": 144,
+    "timeMonth": 137,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2022-08-31": 40,
-      "2022-07-02": 44
+      "2022-08-31": 40
     }
   },
   {
@@ -26,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.morondan.ga.ico",
     "slug": "morondan-ga",
     "status": "down",
-    "uptime": "31.69%",
+    "uptime": "31.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "15.93%",
-    "time": 1035,
+    "time": 1036,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1102,
     "dailyMinutesDown": {
-      "2023-07-01": 13,
+      "2023-07-02": 14,
+      "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
@@ -344,8 +344,7 @@
       "2022-08-14": 247,
       "2022-07-19": 60,
       "2022-07-04": 1135,
-      "2022-07-03": 1440,
-      "2022-07-02": 1440
+      "2022-07-03": 1440
     }
   }
 ]
