@@ -4,19 +4,19 @@
     "url": "https://matiasbontempo.com",
     "icon": "https://icons.duckduckgo.com/ip3/matiasbontempo.com.ico",
     "slug": "matias-bontempo-home",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 133,
-    "timeWeek": 171,
-    "timeMonth": 215,
+    "timeDay": 139,
+    "timeWeek": 170,
+    "timeMonth": 213,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2025-09-14": 0
+      "2025-09-14": 9
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-14": 1044,
+      "2025-09-14": 1053,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
