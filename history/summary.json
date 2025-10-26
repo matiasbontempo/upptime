@@ -4,18 +4,20 @@
     "url": "https://matiasbontempo.com",
     "icon": "https://icons.duckduckgo.com/ip3/matiasbontempo.com.ico",
     "slug": "matias-bontempo-home",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 169,
-    "timeWeek": 519,
-    "timeMonth": 256,
+    "timeDay": 164,
+    "timeWeek": 485,
+    "timeMonth": 254,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-26": 9
+    }
   },
   {
     "name": "morondan.ga",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-26": 1179,
+      "2025-10-26": 1188,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
