@@ -6,18 +6,16 @@
     "slug": "matias-bontempo-home",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 132,
-    "timeWeek": 165,
-    "timeMonth": 246,
+    "timeDay": 143,
+    "timeWeek": 163,
+    "timeMonth": 245,
     "timeYear": 178,
-    "dailyMinutesDown": {
-      "2025-11-01": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "morondan.ga",
@@ -36,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-01": 1156,
+      "2025-11-02": 17,
+      "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
@@ -399,8 +398,7 @@
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
-      "2024-11-03": 1440,
-      "2024-11-02": 1440
+      "2024-11-03": 1440
     }
   }
 ]
