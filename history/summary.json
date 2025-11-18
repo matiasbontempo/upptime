@@ -4,7 +4,7 @@
     "url": "https://matiasbontempo.com",
     "icon": "https://icons.duckduckgo.com/ip3/matiasbontempo.com.ico",
     "slug": "matias-bontempo-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "90.19%",
     "uptimeWeek": "98.60%",
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 878,
+      "2025-11-18": 950,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
