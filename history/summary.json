@@ -6,17 +6,16 @@
     "slug": "matias-bontempo-home",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.96%",
     "time": 175,
-    "timeDay": 179,
-    "timeWeek": 208,
-    "timeMonth": 202,
+    "timeDay": 207,
+    "timeWeek": 199,
+    "timeMonth": 201,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-11-22": 9,
       "2025-11-18": 162,
       "2025-11-06": 31
     }
@@ -27,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.morondan.ga.ico",
     "slug": "morondan-ga",
     "status": "down",
-    "uptime": "11.52%",
+    "uptime": "11.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-23": 18,
+      "2025-11-24": 17,
+      "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -401,8 +401,7 @@
       "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
-      "2024-11-25": 1440,
-      "2024-11-24": 1440
+      "2024-11-25": 1440
     }
   }
 ]
